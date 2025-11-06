@@ -1,4 +1,4 @@
-Package: SHAPforxgboost_w_fix
+Package: SHAPforxgboostFixed
 Title: SHAP Plots for 'XGBoost'
 Version: 0.1.3
 Date: 2023-05-18
